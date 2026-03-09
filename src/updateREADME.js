@@ -17,4 +17,4 @@ ${charityInfo.coverImageUrl ? `![cover image](${charityInfo.coverImageUrl})` : '
 *Last updated ${new Date().toISOString()}*
 `;
 
-fs.writeFileSync('../README.md', content);
+fs.writeFileSync('README.md', content);
