@@ -13,7 +13,7 @@ ${charityInfo.description ?? ''}
 ${charityInfo.coverImageUrl ? `![cover image](${charityInfo.coverImageUrl})` : ''}
 
 
-*This charity is randomly fetch from [every.org](every.org).*
+*This charity is randomly fetch from [every.org](https://www.every.org).*
 *Last updated ${new Date().toISOString()}*
 `;
 
