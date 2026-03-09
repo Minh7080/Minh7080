@@ -1,11 +1,11 @@
-# [Donate to Lake Region Resource Conservation And Development Area Inc](https://www.every.org/lake-region-resource-conservation-and-development-area-inc)
+# [Donate to Saving The Blue](savingtheblue.org)
 
 
 
-Lake Region Resource Conservation And Development Area Inc is a nonprofit organization focused on preserving, protecting, and improving environment. It is based in Ottawa, KS. It received its nonprofit status in 1987.
+Saving The Blue is a nonprofit organization focused on science and technology. It is based in Miami, FL. It received its nonprofit status in 2019.
 
 
 
 
 *This charity is randomly fetch from [every.org](every.org).*
-*Last updated 2026-03-09T10:00:41.666Z*
+*Last updated 2026-03-09T10:01:18.049Z*
