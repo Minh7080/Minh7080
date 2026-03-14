@@ -1,11 +1,11 @@
-# [Donate to Pangea Legal Services](www.pangealegal.org)
+# [Donate to Fusion](fusionabq.org)
 
 
 
-Pangea’s cutting-edge immigration legal services have a nearly 100% success rate, often setting legal precedent. 
+Fusion is a nonprofit organization focused on arts, culture, or humanities. It is based in Albuquerque, NM. It received its nonprofit status in 2002.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/lmzbozkht1ciryvdwmws)
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-03-13T00:59:31.441Z*
+*Last updated 2026-03-14T00:58:19.304Z*
