@@ -1,11 +1,11 @@
-# [Donate to Community Lift Corp](communitylift.org)
+# [Donate to Orinda Senior Housing Foundation](https://www.every.org/orinda-senior-housing-foundation)
 
 
 
-Community Lift Corp is a nonprofit organization focused on community development. It is based in Memphis, TN. It received its nonprofit status in 2011.
+Orinda Senior Housing Foundation is a nonprofit organization focused on housing and shelters. It is based in Walnut Creek, CA. It received its nonprofit status in 2019.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-03-26T01:08:22.676Z*
+*Last updated 2026-03-27T01:08:11.180Z*
