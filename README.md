@@ -1,11 +1,11 @@
-# [Donate to G10 Favelas](https://g10favelas.com.br/en/g10favelas-en/)
+# [Donate to Laurel Crest Retirement Community](https://www.every.org/laurel-crest-retirement-community)
 
 
 
-We are a Block of Social Impact Leaders and Entrepreneurs of the Favelas.
+Laurel Crest Retirement Community is a nonprofit organization focused on housing and shelters. It is based in Columbia, SC. It received its nonprofit status in 2017.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/faja_covers/kbfus/qkibrnyztiqc0vqf5hso)
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-06T01:12:08.514Z*
+*Last updated 2026-04-07T01:09:55.989Z*
