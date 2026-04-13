@@ -1,13 +1,11 @@
-# [Donate to Innovations for Poverty Action](http://www.poverty-action.org)
+# [Donate to Delaware Action For Animals Incorporated](https://www.every.org/delaware-action-for-animals-incorporated)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/la0r3f4v5txjsrdlhlkk" alt="logo"/>
-</p>
 
-Discovering and promoting effective solutions to global poverty problems.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/faja_cover/pvpv6g5bpxwvmrsem9yj)
+Delaware Action For Animals Incorporated is a nonprofit organization focused on advocating or providing services for animals. It is based in New Castle, DE. It received its nonprofit status in 1993.
+
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-12T01:15:49.128Z*
+*Last updated 2026-04-13T01:17:27.096Z*
