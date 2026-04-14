@@ -1,11 +1,11 @@
-# [Donate to Delaware Action For Animals Incorporated](https://www.every.org/delaware-action-for-animals-incorporated)
+# [Donate to Bad News Chairs](https://www.every.org/bad-news-chairs)
 
 
 
-Delaware Action For Animals Incorporated is a nonprofit organization focused on advocating or providing services for animals. It is based in New Castle, DE. It received its nonprofit status in 1993.
+Bad News Chairs is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in Goliad, TX. It received its nonprofit status in 2015.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-13T01:17:27.096Z*
+*Last updated 2026-04-14T01:16:13.694Z*
