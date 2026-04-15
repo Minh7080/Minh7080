@@ -1,11 +1,11 @@
-# [Donate to Bad News Chairs](https://www.every.org/bad-news-chairs)
+# [Donate to Golden Gate Australian Football League Incorporated](http://www.ggafl.com/)
 
 
 
-Bad News Chairs is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in Goliad, TX. It received its nonprofit status in 2015.
+Golden Gate Australian Football League Incorporated is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in San Francisco, CA. It received its nonprofit status in 2014.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-14T01:16:13.694Z*
+*Last updated 2026-04-15T01:14:15.632Z*
