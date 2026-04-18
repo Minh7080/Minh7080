@@ -1,14 +1,11 @@
-# [Donate to Anticancer Fund](https://www.anticancerfund.org)
+# [Donate to Twin Pine Farm Exotics Conservation Foundation](https://www.every.org/twin-pine-farm-exotics-conservation-foundation)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/qk9rctetrw4ayjoxncyt" alt="logo"/>
-</p>
 
-We support promising scientific research and outstanding cancer care.
-Because every cancer patient deserves the best treatment.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/vcm8p8tl5txw9awxd13k)
+An organization focused on advocating or providing services for animals. It received its nonprofit status in 2021.
+
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-17T01:16:26.119Z*
+*Last updated 2026-04-18T01:09:44.330Z*
