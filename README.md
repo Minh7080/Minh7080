@@ -1,11 +1,11 @@
-# [Donate to Twin Pine Farm Exotics Conservation Foundation](https://www.every.org/twin-pine-farm-exotics-conservation-foundation)
+# [Donate to Courageous Families Inc](https://www.every.org/courageous-families-inc)
 
 
 
-An organization focused on advocating or providing services for animals. It received its nonprofit status in 2021.
+Courageous Families Inc is a nonprofit organization focused on providing human services. It is based in Alexandria, MN. It received its nonprofit status in 2018.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-18T01:09:44.330Z*
+*Last updated 2026-04-19T01:18:50.062Z*
