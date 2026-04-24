@@ -1,11 +1,11 @@
-# [Donate to Full Circle Rescue](https://www.every.org/full-circle-rescue)
+# [Donate to Msro Science](https://www.every.org/msro-science)
 
 
 
-Full Circle Rescue is a nonprofit organization focused on advocating or providing services for animals. It is based in Carrollton, GA. It received its nonprofit status in 2016.
+An organization focused on science and technology. It received its nonprofit status in 2019.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-23T01:19:41.972Z*
+*Last updated 2026-04-24T01:19:08.743Z*
