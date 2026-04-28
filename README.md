@@ -1,13 +1,11 @@
-# [Donate to Computer CORE](http://computercore.org/newsite/)
+# [Donate to Jumbo Arts International](https://www.every.org/jumbo-arts-international)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/kkdxm7h2vtuyqpm04oz2" alt="logo"/>
-</p>
 
-CORE's mission is to teach low-income adults the technological and professional skills needed to pursue their career aspirations.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/kftyj6tko2clqss7xfsr)
+Jumbo Arts International is a nonprofit organization focused on arts, culture, or humanities. It is based in Red Springs, NC. It received its nonprofit status in 2012.
+
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-04-27T01:22:21.775Z*
+*Last updated 2026-04-28T01:28:35.531Z*
