@@ -1,13 +1,13 @@
-# [Donate to Q Center](http://www.pdxqcenter.org/)
+# [Donate to CORE](https://coreresponse.org)
 
 <p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/faja_profile/govisfpiuun4cztgsnl8" alt="logo"/>
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/cxzvxhro7uheqlxwfyqv" alt="logo"/>
 </p>
 
-Http://www.pdxQcenter.org - Portland's LGBTQ2IA+ Community Center. Providing safe spaces, community building and empowerment for positive transformation.
+We are a crisis response organization that brings immediate aid and recovery to underserved communities across the globe.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/faja_cover/zsfbrb7ljlygerc6ow3j)
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/g8isn4fh2nwryr7p4f8h)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-05-01T01:46:09.824Z*
+*Last updated 2026-05-02T01:23:59.347Z*
