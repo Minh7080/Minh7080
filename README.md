@@ -1,13 +1,11 @@
-# [Donate to Community Foundation Of Northwest Florida Inc](https://cfnwf.org/)
+# [Donate to Whispering Woods Safe Haven Inc](https://www.every.org/whispering-woods-safe-haven-inc)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/x8x75bmqrccp2etwdrmv" alt="logo"/>
-</p>
 
-You don't have to be wealthy to leave a legacy. We make it easy to give to those in need.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/b6ssnekacp0lwgzgecen)
+Whispering Woods Safe Haven Inc is a nonprofit organization focused on public or societal benefit. It is based in Punta Gorda, FL. It received its nonprofit status in 2019.
+
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-05-23T01:48:24.520Z*
+*Last updated 2026-05-24T01:54:45.140Z*
