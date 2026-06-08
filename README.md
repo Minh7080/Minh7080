@@ -1,11 +1,14 @@
-# [Donate to Garfield County Public Library Fd Inc](https://www.every.org/garfield-county-public-library-fd-inc)
+# [Donate to Coast2Coast4ALS](https://www.coast2coast4als.org)
+
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/p3fuuj9kj28bpjsxunzw" alt="logo"/>
+</p>
+
+Riding the Miles. Sharing the Stories. Transforming Lives.
 
 
-
-Garfield County Public Library Fd Inc is a nonprofit organization focused on education. It is based in Rifle, CO. It received its nonprofit status in 1998.
-
-
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/uswyjb1kehviarqxkdcz)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-06-07T02:07:09.176Z*
+*Last updated 2026-06-08T02:12:04.434Z*
