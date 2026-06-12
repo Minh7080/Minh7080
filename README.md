@@ -1,11 +1,11 @@
-# [Donate to Climate Resolve](climateresolve.org)
+# [Donate to Dickinson Historical Society](https://www.every.org/dickinson-historical-society)
 
 
 
-Climate Resolve is a nonprofit organization focused on preserving, protecting, and improving environment. It is based in Los Angeles, CA. It received its nonprofit status in 2017.
+Dickinson Historical Society is a nonprofit organization focused on arts, culture, or humanities. It is based in Dickinson, TX. It received its nonprofit status in 2000.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-06-11T02:11:39.301Z*
+*Last updated 2026-06-12T02:07:28.969Z*
