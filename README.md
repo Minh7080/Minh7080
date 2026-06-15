@@ -1,11 +1,11 @@
-# [Donate to Contemporary Choral Collective Of Los Angeles](https://www.every.org/contemporary-choral-collective-of-los-angeles)
+# [Donate to Find Design](www.thefinddesign.org)
 
 
 
-Contemporary Choral Collective Of Los Angeles is a nonprofit organization focused on arts, culture, or humanities. It is based in Los Angeles, CA. It received its nonprofit status in 2017.
+Find Design is a nonprofit organization focused on youth development. It is based in Nashville, TN. It received its nonprofit status in 2015.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-06-14T02:10:46.334Z*
+*Last updated 2026-06-15T02:14:43.820Z*
