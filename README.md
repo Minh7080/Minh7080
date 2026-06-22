@@ -1,11 +1,11 @@
-# [Donate to Friends Of Highland Ball](https://www.every.org/friends-of-highland-ball)
+# [Donate to Diving With A Purpose And Development Group Inc](www.divingwithapurpose.org)
 
 
 
-Friends Of Highland Ball is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in Saint Paul, MN. It received its nonprofit status in 2019.
+Diving With A Purpose And Development Group Inc is a nonprofit organization focused on science and technology. It is based in Nashville, TN. It received its nonprofit status in 2014.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-06-21T02:13:36.406Z*
+*Last updated 2026-06-22T02:27:59.036Z*
