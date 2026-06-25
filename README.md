@@ -1,11 +1,11 @@
-# [Donate to Educatiooon 3000 Network](https://www.every.org/educatiooon-3000-network)
+# [Donate to Journeys In Film](journeysinfilm.org)
 
 
 
-An organization focused on education. It received its nonprofit status in 2020.
+Journeys In Film is a nonprofit organization focused on arts, culture, or humanities. It is based in Placitas, NM. It received its nonprofit status in 2004.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-06-24T01:54:36.972Z*
+*Last updated 2026-06-25T01:58:14.762Z*
