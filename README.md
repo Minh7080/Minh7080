@@ -1,13 +1,11 @@
-# [Donate to Baitulmaal](https://baitulmaal.org)
+# [Donate to Radio Kjb Worldwide Ministry](https://www.every.org/radio-kjb-worldwide-ministry)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/hfpvmlcl44a5hipopdnv" alt="logo"/>
-</p>
 
-We turn your compassion into hope for those in need around the world. 
+
+Radio Kjb Worldwide Ministry is a nonprofit religious or spiritual organization. It is based in Manteca, CA. It received its nonprofit status in 2018.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-06-27T01:53:36.590Z*
+*Last updated 2026-06-28T02:03:45.125Z*
