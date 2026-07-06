@@ -1,11 +1,11 @@
-# [Donate to Friends of mvyradio](http://friendsofmvyradio.org)
+# [Donate to Skincare For Kids In Need](https://www.every.org/skincare-for-kids-in-need)
 
 
 
-Friends of mvyradio is a nonprofit organization focused on arts, culture, or humanities. It is based in Boulder, CO. It received its nonprofit status in 2001.
+Skincare For Kids In Need is a nonprofit organization focused on healthcare. It is based in Los Angeles, CA. It received its nonprofit status in 2008.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-07-05T01:43:17.823Z*
+*Last updated 2026-07-06T01:49:16.227Z*
