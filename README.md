@@ -1,11 +1,15 @@
-# [Donate to Three 17 Ministries Inc](https://www.every.org/three-17-ministries-inc)
+# [Donate to American Friends of Waterford Kamhlaba](https://www.friendsofwaterford.org/)
+
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/ofkaiyj7zspdss0xkjq3" alt="logo"/>
+</p>
+
+We help change the world through the students of Waterford Kamhlaba UWCSA. We are 100% volunteer run.
 
 
-
-Three 17 Ministries Inc is a nonprofit organization focused on arts, culture, or humanities. It is based in Friendswood, TX. It received its nonprofit status in 2011.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-07-19T01:17:50.081Z*
+*Last updated 2026-07-20T02:23:55.157Z*
