@@ -1,11 +1,11 @@
-# [Donate to Dieffenbach Organ Preservation Society](https://www.every.org/dieffenbach-organ-preservation-society)
+# [Donate to Oasis Of Hope Foundation](https://www.every.org/oasis-of-hope-foundation-882c)
 
 
 
-Dieffenbach Organ Preservation Society is a nonprofit organization focused on arts, culture, or humanities. It is based in Bernville, PA. It received its nonprofit status in 2016.
+An organization focused on providing human services. It received its nonprofit status in 2019.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-07-24T01:19:46.557Z*
+*Last updated 2026-07-25T01:20:44.717Z*
