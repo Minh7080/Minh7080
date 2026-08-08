@@ -1,11 +1,13 @@
-# [Donate to The Friends Of Chamber Music Of Reading Inc](https://www.every.org/the-friends-of-chamber-music-of-reading-inc)
+# [Donate to Baitulmaal](https://baitulmaal.org)
 
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/hfpvmlcl44a5hipopdnv" alt="logo"/>
+</p>
 
-
-The Friends Of Chamber Music Of Reading Inc is a nonprofit organization focused on arts, culture, or humanities. It is based in Reading, PA. It received its nonprofit status in 1981.
+We turn your compassion into hope for those in need around the world. 
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-07T01:56:36.484Z*
+*Last updated 2026-08-08T00:39:22.980Z*
