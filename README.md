@@ -1,13 +1,11 @@
-# [Donate to Baitulmaal](https://baitulmaal.org)
+# [Donate to Jump Society](https://www.every.org/jump-society)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/hfpvmlcl44a5hipopdnv" alt="logo"/>
-</p>
 
-We turn your compassion into hope for those in need around the world. 
+
+Jump Society is a nonprofit organization focused on arts, culture, or humanities. It is based in Juneau, AK. It received its nonprofit status in 2015.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-08T00:39:22.980Z*
+*Last updated 2026-08-09T00:41:46.585Z*
