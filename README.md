@@ -1,11 +1,11 @@
-# [Donate to South Kitsap Dance Association](https://www.every.org/south-kitsap-dance-association)
+# [Donate to Heartstrings Foundation](https://www.every.org/heartstrings-foundation-e229)
 
 
 
-South Kitsap Dance Association is a nonprofit organization focused on arts, culture, or humanities. It is based in Port Orchard, WA. It received its nonprofit status in 2014.
+An organization focused on arts, culture, or humanities. It received its nonprofit status in 2020.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-14T00:51:43.873Z*
+*Last updated 2026-08-15T00:28:46.789Z*
