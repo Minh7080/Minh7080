@@ -1,11 +1,11 @@
-# [Donate to Heartstrings Foundation](https://www.every.org/heartstrings-foundation-e229)
+# [Donate to Wilcox Public Library](https://www.every.org/wilcox-public-library)
 
 
 
-An organization focused on arts, culture, or humanities. It received its nonprofit status in 2020.
+Wilcox Public Library is a nonprofit organization focused on education. It is based in Wilcox, PA. It received its nonprofit status in 2014.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-15T00:28:46.789Z*
+*Last updated 2026-08-16T00:29:45.078Z*
