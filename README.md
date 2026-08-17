@@ -1,11 +1,13 @@
-# [Donate to Wilcox Public Library](https://www.every.org/wilcox-public-library)
+# [Donate to University of Pollenzo](https://www.unisg.it/en/)
 
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/xi2sb1ktsovffqfqbfwv" alt="logo"/>
+</p>
 
+Cultivating Global Food Leaders for a Sustainable Future since 2004, founded by Slow Food  🌎 🐌 
 
-Wilcox Public Library is a nonprofit organization focused on education. It is based in Wilcox, PA. It received its nonprofit status in 2014.
-
-
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/lzmm4wqvunqu5qthkb5c)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-16T00:29:45.078Z*
+*Last updated 2026-08-17T00:27:38.505Z*
