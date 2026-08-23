@@ -1,11 +1,13 @@
-# [Donate to Save Our Sky Blue Waters](https://www.every.org/save-our-sky-blue-waters)
+# [Donate to Covenant House Florida](http://www.covenanthousefl.org)
 
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/faja_profile/qoj2jz6hdmfnu7aftqdu" alt="logo"/>
+</p>
 
+To serve runaway, homeless, and at-risk youth under 24, including teen parents and their babies.
 
-Save Our Sky Blue Waters is a nonprofit organization focused on preserving, protecting, and improving environment. It is based in Duluth, MN. It received its nonprofit status in 2014.
-
-
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/faja_cover/qo7men8loym27f7jykcc)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-22T00:28:11.052Z*
+*Last updated 2026-08-23T00:30:52.176Z*
