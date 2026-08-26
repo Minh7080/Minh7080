@@ -1,11 +1,13 @@
-# [Donate to Mountain Dulcimore Society Inc](https://www.every.org/mountain-dulcimore-society-inc)
+# [Donate to Florida Immigrant Coalition Inc](https://floridaimmigrant.org/)
 
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/jly4x7fgjopwdui8ijtn" alt="logo"/>
+</p>
 
+The Florida Immigrant Coalition is a statewide network of pro-immigrant champions who unite to make Florida a true home for all.
 
-Mountain Dulcimore Society Inc is a nonprofit organization focused on arts, culture, or humanities. It is based in Sidney, OH. It received its nonprofit status in 2015.
-
-
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/rrbmcclsednzwluehaid)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-08-25T00:28:51.629Z*
+*Last updated 2026-08-26T00:30:10.120Z*
