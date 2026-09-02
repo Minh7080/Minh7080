@@ -1,11 +1,11 @@
-# [Donate to Vip Rsq](https://www.every.org/vip-rsq)
+# [Donate to Childrens Museum Of Siouxland Inc](launchpadmuseum.com)
 
 
 
-Vip Rsq is a nonprofit organization focused on advocating or providing services for animals. It is based in Saint Louis, MO. It received its nonprofit status in 2014.
+Childrens Museum Of Siouxland Inc is a nonprofit organization focused on arts, culture, or humanities. It is based in Sioux City, IA. It received its nonprofit status in 2016.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-09-01T02:13:46.807Z*
+*Last updated 2026-09-02T01:36:09.844Z*
