@@ -1,11 +1,12 @@
-# [Donate to Northeast Oakland Historical](https://www.every.org/northeast-oakland-historical)
+# [Donate to Charity Organization "Kind Hearts for Ukraine Charity Fund"](https://www.kindhearts.in.ua/)
 
 
 
-Northeast Oakland Historical is a nonprofit organization focused on arts, culture, or humanities. It is based in Oxford, MI. It received its nonprofit status in 2010.
+We assist war victims and refugees, promote the restoration of infrastructure, and support local businesses.
 
 
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/zlog0jstnec7wjn00rch)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-09-05T01:35:33.167Z*
+*Last updated 2026-09-06T01:29:47.410Z*
