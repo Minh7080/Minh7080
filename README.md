@@ -1,13 +1,11 @@
-# [Donate to CORE](https://coreresponse.org)
+# [Donate to Forest Hills Pto & Boosters Council](https://www.every.org/forest-hills-pto-and-boosters-council-363d)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/cxzvxhro7uheqlxwfyqv" alt="logo"/>
-</p>
 
-We are a crisis response organization that brings immediate aid and recovery to underserved communities across the globe.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/g8isn4fh2nwryr7p4f8h)
+Forest Hills Pto & Boosters Council is a nonprofit organization focused on education. It is based in Grand Rapids, MI. It received its nonprofit status in 1999.
+
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-09-10T01:41:01.036Z*
+*Last updated 2026-09-11T01:39:28.303Z*
