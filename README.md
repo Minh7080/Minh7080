@@ -1,11 +1,13 @@
-# [Donate to Jewish Childrens Library Inc](https://www.every.org/jewish-childrens-library-inc-a23f)
+# [Donate to Heifer Project International](http://www.heifer.org)
 
+<p align="center">
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/i2vjanm9no8t8kuzxccg" alt="logo"/>
+</p>
 
+We work to end hunger & poverty in partnership with the communities we serve. Our programs create lasting change around the world.
 
-Jewish Childrens Library Inc is a nonprofit organization focused on education. It is based in Coral Springs, FL. It received its nonprofit status in 2018.
-
-
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/chick_vpbjzj)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-09-12T01:45:40.489Z*
+*Last updated 2026-09-13T01:36:23.090Z*
