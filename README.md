@@ -1,11 +1,11 @@
-# [Donate to Youth Achievers Usa Institute](https://www.every.org/youth-achievers-usa-institute)
+# [Donate to East Tennessee Wild Life Rehabilitation Council](https://www.every.org/east-tennessee-wild-life-rehabilitation-council)
 
 
 
-Youth Achievers Usa Institute is a nonprofit organization focused on youth development. It is based in Kennesaw, GA. It received its nonprofit status in 2007.
+East Tennessee Wild Life Rehabilitation Council is a nonprofit organization focused on advocating or providing services for animals. It is based in Knoxville, TN. It received its nonprofit status in 2003.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-09-24T01:48:55.881Z*
+*Last updated 2026-09-25T02:05:31.740Z*
