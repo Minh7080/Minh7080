@@ -1,11 +1,11 @@
-# [Donate to W O M A N Inc](https://www.every.org/w-o-m-a-n-inc)
+# [Donate to Educational Media Foundation Inc](https://www.every.org/educational-media-foundation-inc)
 
 
 
-W O M A N Inc is a nonprofit organization focused on providing human services. It is based in Baltimore, MD. It received its nonprofit status in 2016.
+Educational Media Foundation Inc is a nonprofit organization focused on arts, culture, or humanities. It is based in Richmond Hill, GA. It received its nonprofit status in 2000.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-10-22T02:05:17.415Z*
+*Last updated 2026-10-23T02:10:23.556Z*
