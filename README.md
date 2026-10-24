@@ -1,11 +1,11 @@
-# [Donate to Educational Media Foundation Inc](https://www.every.org/educational-media-foundation-inc)
+# [Donate to Episcopal Actors Guild Of America Inc](https://actorsguild.org)
 
 
 
-Educational Media Foundation Inc is a nonprofit organization focused on arts, culture, or humanities. It is based in Richmond Hill, GA. It received its nonprofit status in 2000.
+The Episcopal Actors' Guild provides emergency financial aid and support to NYC's professional performers of all faiths and none.
 
-
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/zijehuad6t44pk6sdzzo)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-10-23T02:10:23.556Z*
+*Last updated 2026-10-24T02:08:42.292Z*
