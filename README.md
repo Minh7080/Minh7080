@@ -1,13 +1,11 @@
-# [Donate to Rod Lemon Foundation](https://rodlemonfoundation.org/)
+# [Donate to Comic Book Hall Of Fame Inc](https://www.every.org/comic-book-hall-of-fame-inc)
 
-<p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/mupqgwu8fgmv6e8o7ute" alt="logo"/>
-</p>
 
-Rod Lemon Foundation empowers communities and supports veterans through impactful programs, fostering resilience and growth.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/wqdgjtwk7a8e0mfrkx7o)
+Comic Book Hall Of Fame Inc is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in Lexington, OH. It received its nonprofit status in 2014.
+
+
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-10-27T02:34:50.484Z*
+*Last updated 2026-10-28T02:43:46.631Z*
