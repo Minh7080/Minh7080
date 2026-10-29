@@ -1,11 +1,12 @@
-# [Donate to Comic Book Hall Of Fame Inc](https://www.every.org/comic-book-hall-of-fame-inc)
+# [Donate to Barranquilla+20 Foundation](https://barranquillamas20.com)
 
 
 
-Comic Book Hall Of Fame Inc is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in Lexington, OH. It received its nonprofit status in 2014.
+women and youth-led foundation addressing climate justice, gender equity, education in Colombia and LAC since 2012.
 
 
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/m2okcso3r8ooguhowl3l)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-10-28T02:43:46.631Z*
+*Last updated 2026-10-29T03:03:12.518Z*
