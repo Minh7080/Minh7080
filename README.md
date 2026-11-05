@@ -1,11 +1,11 @@
-# [Donate to Protecting Tomorrow](https://www.every.org/protecting-tomorrow)
+# [Donate to Chappaqua Volunteer Ambulance Corps](http://www.chappaquaambulance.org/)
 
 
 
-Protecting Tomorrow is a nonprofit organization focused on education. It is based in San Jose, CA. It received its nonprofit status in 2013.
+Chappaqua Volunteer Ambulance Corps is a nonprofit organization focused on healthcare. It is based in Chappaqua, NY. It received its nonprofit status in 1974.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-11-04T03:30:53.074Z*
+*Last updated 2026-11-05T03:53:01.177Z*
