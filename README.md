@@ -1,11 +1,11 @@
-# [Donate to Gorman Heritage Farm Foundation](gormanfarm.org)
+# [Donate to Power News Radio Network](https://www.every.org/power-news-radio-network)
 
 
 
-Gorman Heritage Farm Foundation is a nonprofit organization focused on preserving, protecting, and improving environment. It is based in Cincinnati, OH. It received its nonprofit status in 2004.
+An organization focused on arts, culture, or humanities. It received its nonprofit status in 2020.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-11-13T03:46:00.909Z*
+*Last updated 2026-11-14T03:44:25.700Z*
