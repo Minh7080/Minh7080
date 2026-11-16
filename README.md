@@ -1,11 +1,11 @@
-# [Donate to Lead For Pollinators](https://www.every.org/lead-for-pollinators)
+# [Donate to Midtown Parks](https://www.every.org/midtown-parks)
 
 
 
-An organization focused on preserving, protecting, and improving environment. It received its nonprofit status in 2020.
+Midtown Parks is a nonprofit organization focused on recreation, sports, leisure, or athletics. It is based in Sacramento, CA. It received its nonprofit status in 2019.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-11-15T03:22:25.454Z*
+*Last updated 2026-11-16T03:24:00.360Z*
