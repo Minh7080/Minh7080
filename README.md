@@ -1,13 +1,13 @@
-# [Donate to The Beautiful World Project](https://www.every.org/the-beautiful-world-project)
+# [Donate to Parlement National de la Jeunesse Burkinabe pour l'Eau](https://www.facebook.com/PNJBE)
 
 <p align="center">
-<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/lgyunwalwjhjebuzpqmw" alt="logo"/>
+<img src="https://res.cloudinary.com/everydotorg/image/upload/c_lfill,w_24,h_24,dpr_2/c_crop,ar_24:24/q_auto,f_auto,fl_progressive/profile_pics/pnspfqxu5etkrtxwpbou" alt="logo"/>
 </p>
 
-Every contribution is a seed of hope, shaping a more beautiful world for animals and the people who love them. 
+Advancing climate-resilient water, sanitation and hygiene for vulnerable communities and empowering youth to drive change.
 
-![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/c5xolac4aeq08cbqn0ip)
+![cover image](https://res.cloudinary.com/everydotorg/image/upload/f_auto,c_limit,w_3840,q_80/profile_pics/lkt2vjzaaiewlotzhmva)
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-11-22T03:41:12.143Z*
+*Last updated 2026-11-23T04:17:05.736Z*
