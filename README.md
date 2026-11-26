@@ -1,11 +1,11 @@
-# [Donate to Saint Thomas More Society Of Southeast Texas](https://www.every.org/saint-thomas-more-society-of-southeast-texas)
+# [Donate to Smoky Mountain Youth Basketball](https://www.every.org/smoky-mountain-youth-basketball)
 
 
 
-Saint Thomas More Society Of Southeast Texas is a nonprofit religious or spiritual organization. It is based in Beaumont, TX. It received its nonprofit status in 2015.
+An organization focused on recreation, sports, leisure, or athletics. It received its nonprofit status in 2025.
 
 
 
 
 *This charity is randomly fetch from [every.org](https://www.every.org).*
-*Last updated 2026-11-25T05:48:22.499Z*
+*Last updated 2026-11-26T05:38:59.635Z*
